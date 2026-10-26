@@ -1,2 +1,8 @@
 [db]
 db.daws-78s.shop
+
+[backend]
+backend.daws-78s.shop
+
+[frontend]
+daws-78s.shop
